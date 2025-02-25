@@ -1,0 +1,6 @@
+Customer ID,Name,Email,Phone,Address,Purchase History,Last Contacted
+101,Alice Johnson,alice@example.com,123-456-7890,123 Main St,5,10-01-2024
+102,Bob Smith,bob@example.com,987-654-3210,456 Oak St,12,15-02-2024
+103,Charlie Lee,charlie@invalid,555-5555,,0,20-11-2023
+104,David Kim,david@example.com,222-333-4444,789 Pine St,8,25-01-2024
+105,Eva Brown,eva@sample.com,999-888-7777,101 Maple Ave,15,05-03-2024
